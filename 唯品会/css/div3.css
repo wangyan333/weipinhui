@@ -1,0 +1,19 @@
+#div3>img{
+	
+	width: 100%;
+	
+}
+#div3>div{
+	display: flex;
+	height: 210px;
+	background: url(../img/唯品会手机购物正品商城：品牌特卖手机版_files/15555744457368.gif);
+	background-size: 100%;
+	align-items:center;
+	justify-content: space-around;
+
+}
+#div3>div>img{
+	width:22%;
+	wargin-left:3%;
+	
+}
